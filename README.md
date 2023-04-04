@@ -7,4 +7,3 @@
 
 - abra no seu navegador o projeto Jornada Dev Clone do Tiktok https://tiktok---jornada-ac28e.web.app
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProjetoTik-Tok&show_icons=true&theme=dark)](https://github.com/auraghazra/github-readme-stats)
